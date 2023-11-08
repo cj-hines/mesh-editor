@@ -1,6 +1,6 @@
 <body>
 
-<h1 align="middle">CS 184: Computer Graphics and Imaging, Mesh Edit, Spring 2023</h1>
+<h1 align="middle"> Computer Graphics and Imaging, Mesh Edit, Spring 2023</h1>
 
 <br><br>
 
