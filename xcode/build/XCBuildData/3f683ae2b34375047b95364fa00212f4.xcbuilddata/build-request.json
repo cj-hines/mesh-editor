@@ -1,0 +1,58 @@
+{
+  "buildCommand" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : false,
+    "targets" : null
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "98c153ba95844816f68f84b3bab96bfe6629bd57cc25310b2fddeb1cace5dfd5"
+    },
+    {
+      "guid" : "98c153ba95844816f68f84b3bab96bfe7501dd6d43ee25b2b3c92992a533d2dc"
+    }
+  ],
+  "containerPath" : "/Users/cj/Desktop/p2-meshedit-sp23-newteam/xcode/ColladaViewer.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "macosx",
+      "sdk" : "macosx13.3",
+      "sdkVariant" : "macos",
+      "supportedArchitectures" : [
+        "x86_64h",
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "",
+      "buildProductsPath" : "",
+      "derivedDataPath" : "/Users/cj/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/cj/Library/Developer/Xcode/DerivedData/ColladaViewer-aahjcptsmztpnchfxnjryqupnome/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/cj/Library/Developer/Xcode/DerivedData/ColladaViewer-aahjcptsmztpnchfxnjryqupnome/Index.noindex/PrecompiledHeaders",
+      "pchPath" : ""
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : true,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

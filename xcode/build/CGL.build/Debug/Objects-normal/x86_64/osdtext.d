@@ -1,0 +1,23 @@
+dependencies: \
+  /Users/cj/Desktop/p2-meshedit-sp23-newteam/CGL/src/osdtext.cpp \
+  /Users/cj/Desktop/p2-meshedit-sp23-newteam/CGL/src/osdtext.h \
+  /Users/cj/Desktop/p2-meshedit-sp23-newteam/CGL/include/GL/glew.h \
+  /Users/cj/Desktop/p2-meshedit-sp23-newteam/CGL/src/color.h \
+  /usr/local/include/freetype2/ft2build.h \
+  /usr/local/include/freetype2/freetype/config/ftheader.h \
+  /usr/local/include/freetype2/freetype/freetype.h \
+  /usr/local/include/freetype2/freetype/config/ftconfig.h \
+  /usr/local/include/freetype2/freetype/config/ftoption.h \
+  /usr/local/include/freetype2/freetype/config/ftstdlib.h \
+  /usr/local/include/freetype2/freetype/config/integer-types.h \
+  /usr/local/include/freetype2/freetype/config/public-macros.h \
+  /usr/local/include/freetype2/freetype/config/mac-support.h \
+  /usr/local/include/freetype2/freetype/fttypes.h \
+  /usr/local/include/freetype2/freetype/ftsystem.h \
+  /usr/local/include/freetype2/freetype/ftimage.h \
+  /usr/local/include/freetype2/freetype/fterrors.h \
+  /usr/local/include/freetype2/freetype/ftmoderr.h \
+  /usr/local/include/freetype2/freetype/fterrdef.h \
+  /Users/cj/Desktop/p2-meshedit-sp23-newteam/CGL/src/base64.h \
+  /Users/cj/Desktop/p2-meshedit-sp23-newteam/CGL/src/console.h \
+  /Users/cj/Desktop/p2-meshedit-sp23-newteam/CGL/src/osdfont.cpp

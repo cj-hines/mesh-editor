@@ -1,0 +1,16 @@
+Target dependency graph (6 targets)
+glew in ColladaViewer, no dependencies
+glfw in ColladaViewer, no dependencies
+CGL in ColladaViewer, depends on:
+glew in ColladaViewer (explicit)
+meshedit in ColladaViewer, depends on:
+glew in ColladaViewer (explicit)
+glfw in ColladaViewer (explicit)
+CGL in ColladaViewer (explicit)
+ZERO_CHECK in ColladaViewer, no dependencies
+ALL_BUILD in ColladaViewer, depends on:
+glew in ColladaViewer (explicit)
+glfw in ColladaViewer (explicit)
+CGL in ColladaViewer (explicit)
+meshedit in ColladaViewer (explicit)
+ZERO_CHECK in ColladaViewer (explicit)
